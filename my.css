@@ -148,9 +148,9 @@ img {
 .privacy-policy {
   color: rgba(20, 20, 20, 0.4);
 }
-@media screen and (min-width: 428px) {
+@media screen and (min-width: 375px) {
   .modal {
-    width: 335px;
+    width: 320px;
   }
   .image-wrap {
     width: 276px;
@@ -187,7 +187,7 @@ img {
     width: 100%;
   }
 }
-@media screen and (min-width: 1158px) {
+@media screen and (min-width: 1280px) {
   .modal {
     width: 904px;
     height: 694px;
